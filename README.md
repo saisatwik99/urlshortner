@@ -6,7 +6,6 @@ npm install
 
 # Edit the default.json file with your mongoURI and baseUrl
 # Use production.json in production env
-# Place MongoURI in config/index.js file
 # Run
 npm start
 ```
